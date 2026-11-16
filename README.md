@@ -1,16 +1,14 @@
 # debian-linux
-Materi pembelajaran Debian 12 yang mencakup instalasi sistem operasi, perintah terminal Linux, konfigurasi IP Address, dan administrasi server.1. Pengenalan Debian 12
+Materi pembelajaran Debian 12 yang mencakup instalasi sistem operasi, perintah terminal Linux, konfigurasi IP Address, dan administrasi server.
 
+1. Pengenalan Debian 12
 Debian 12 merupakan sistem operasi berbasis Linux yang bersifat open source dan dapat digunakan secara gratis. Debian 12 memiliki nama kode Bookworm. Sistem operasi ini dapat digunakan pada komputer pribadi maupun server untuk menjalankan berbagai kebutuhan komputasi dan layanan jaringan.
-
 Debian 12 dikenal sebagai salah satu distribusi Linux yang memiliki stabilitas sistem serta dukungan berbagai perangkat lunak.
 
 2. Sejarah Debian
-
 Debian pertama kali diperkenalkan oleh Ian Murdock pada tanggal 16 Agustus 1993. Debian dikembangkan sebagai sistem operasi bebas yang dapat digunakan dan dikembangkan oleh masyarakat.
-
-Nama Debian berasal dari gabungan nama Debra dan Ian. Seiring perkembangannya, Debian menjadi salah satu distribusi Linux yang banyak digunakan untuk kebutuhan komputer dan server.
-
+Nama Debian berasal dari gabungan nama Debra dan Ian.
+Seiring perkembangannya, Debian menjadi salah satu distribusi Linux yang banyak digunakan untuk kebutuhan komputer dan server.
 Debian 12 dengan nama kode Bookworm dirilis pada tanggal 10 Juni 2023.
 
 3. Fungsi Debian 12
